@@ -2,7 +2,7 @@
 
 I'm a software engineer with more than 6 years working in the PHP and JavaScript ecosystem, most of the time working as a backend developer. 
 
-My focus as an engineer is on the core concepts, theory and pratice working together, that’s becoming me better daily as a software developer and I’m completely passionate to solve real problems with code, this passion took me longer across several large projects impacting directly thousand people.
+My focus as an engineer is on the core concepts, theory and pratice working together, that’s becoming me better daily as a software developer and I’m completely passionate to solve real problems with code, this passion took me across several large projects impacting directly thousand people.
 
 "For me quality and good pratices shouldn’t have tradeoffs"
 
