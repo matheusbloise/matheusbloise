@@ -6,7 +6,6 @@ My focus as an engineer is on the core concepts, theory and pratice working toge
 
 "For me quality and good pratices shouldn’t have tradeoffs"
 
-
 ### Technologies I know and have been working on
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" width="40" /></a>
 <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" width="40" /></a> 
